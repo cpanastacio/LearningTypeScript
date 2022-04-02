@@ -1,5 +1,2 @@
 # LearningTypeScript
-typsecript learning the basics
-
-
-First push
+typsecript learning the basics, TODO list
